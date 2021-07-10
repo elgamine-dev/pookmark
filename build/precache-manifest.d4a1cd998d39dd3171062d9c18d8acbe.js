@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8d3869d20e26916c8b06ee0af94fcc8",
+    "revision": "f1558b32a1aa03982c364b835d00e98a",
     "url": "/pookmark/index.html"
   },
   {
-    "revision": "63d732233cc3cf9a757c",
+    "revision": "a6e31f854aae3b23a783",
     "url": "/pookmark/static/css/2.4d135d0b.chunk.css"
   },
   {
-    "revision": "746d1dcb7c32be456963",
+    "revision": "20fa0e5a7305b1238a28",
     "url": "/pookmark/static/css/main.ce519ec5.chunk.css"
   },
   {
-    "revision": "63d732233cc3cf9a757c",
-    "url": "/pookmark/static/js/2.aa5703ed.chunk.js"
+    "revision": "a6e31f854aae3b23a783",
+    "url": "/pookmark/static/js/2.8c365fd7.chunk.js"
   },
   {
     "revision": "352a45dbe125e79623df22a2fa7ab4d3",
-    "url": "/pookmark/static/js/2.aa5703ed.chunk.js.LICENSE.txt"
+    "url": "/pookmark/static/js/2.8c365fd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "746d1dcb7c32be456963",
-    "url": "/pookmark/static/js/main.80fa10e1.chunk.js"
+    "revision": "20fa0e5a7305b1238a28",
+    "url": "/pookmark/static/js/main.4db6a234.chunk.js"
   },
   {
     "revision": "ba812d7c210ecfa894b2",
