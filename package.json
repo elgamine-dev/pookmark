@@ -2,7 +2,7 @@
   "name": "pookmark",
   "version": "0.1.1",
   "private": true,
-  "homepage" : "https://elgamine-dev.github.io/pookmark",
+  "homepage" : "https://pookmark.onrender.com/",
   "dependencies": {
     "firebase": "^7.8.1",
     "react": "^16.8.3",
