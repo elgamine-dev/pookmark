@@ -17,7 +17,7 @@ const db = firebase.firestore()
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App ui inverted segment basic">
         <header className="App-header">
           Pookmark
           <button>+</button>

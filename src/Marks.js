@@ -39,7 +39,7 @@ const Mark = ({text, link, created_at, ts}) => (
     <Feed.Event>
         <Feed.Content>
             <Feed.Summary>
-                <a href={link}>{text}</a>
+                <a href={link} target="_blanks">{text}</a>
                 <Feed.Date>
                     <CreationDate ts={ts} />
                 </Feed.Date>

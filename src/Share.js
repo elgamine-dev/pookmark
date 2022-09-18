@@ -17,7 +17,7 @@ function Share (props) {
       }
     }, [])
  
-    const debug  = true
+    const debug  = process.env.REACT_APP_DEBUG;
 
     const {title, text} = state
 
